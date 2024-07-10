@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: url('./assets/background.jpg') no-repeat center center fixed; 
+  background-size: cover;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}

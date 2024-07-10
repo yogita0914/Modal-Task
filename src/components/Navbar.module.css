@@ -1,0 +1,32 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem;
+    background-color: #333232;
+    color: white;
+}
+  
+.logo {
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+}
+  
+.logoImage {
+    height: 40px;
+    margin-right: 10px;
+}
+.modalButton {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background-color: rgb(63, 63, 252);
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+  
+.modalButton:hover {
+    background-color: skyblue;
+}
+  
